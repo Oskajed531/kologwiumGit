@@ -5,3 +5,4 @@ Zmiana03
 zmiana02
 zmiana02a
 prostaWersja
+zmiana2
